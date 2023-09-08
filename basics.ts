@@ -52,7 +52,7 @@ function add(a: number, b: number) {
   return a + b;
 }
 
-function print(value: any) {
+function printOutput(value: any) {
   console.log(value);
 }
 
